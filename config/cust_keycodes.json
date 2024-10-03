@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_SHIFT(LEFT_ALT(R))"
+		],
+		"description": "LEFT_SHIFT(LEFT_ALT(R))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
